@@ -1,0 +1,40 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\Assignment\obj\Debug\Assignment.Login.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Assignment\obj\Debug\Assignment.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Assignment\obj\Debug\Assignment.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Assignment\bin\Debug\Assignment.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Assignment\bin\Debug\Assignment.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Assignment\obj\Debug\Assignment.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Assignment\obj\Debug\Assignment.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Administrator\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Administrator\Desktop\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\Administrator\Desktop\Assignment\Assignment\obj\Debug\Assignment.xml
+C:\Users\Administrator\Desktop\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Administrator\Desktop\Assignment\Assignment\obj\Debug\Assignment.Login.resources
+C:\Users\Administrator\Desktop\Assignment\Assignment\obj\Debug\Assignment.Resources.resources
+C:\Users\Administrator\Desktop\Assignment\Assignment\obj\Debug\Assignment.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\Administrator\Desktop\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Administrator\Desktop\Assignment\Assignment\bin\Debug\Assignment.xml
+C:\Users\Administrator\Desktop\Assignment\Assignment\obj\Debug\Assignment.frmMain.resources
+C:\Users\Administrator\Desktop\Assignment\Assignment\obj\Debug\Assignment.frmQuanly.resources
+C:\Users\Administrator\Desktop\Assignment\Assignment\obj\Debug\Assignment.Nhân_viên.resources
+C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\obj\Debug\Assignment.xml
+C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\bin\Debug\Assignment.xml
+C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\obj\Debug\Assignment.frmMain.resources
+C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\obj\Debug\Assignment.Login.resources
+C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\obj\Debug\Assignment.Resources.resources
+C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\obj\Debug\Assignment.Nhân_viên.resources
+C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\obj\Debug\Assignment.frmQuanly.resources
+C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\obj\Debug\Assignment.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\obj\Debug\Assignment.frmLoaiSanpham.resources
+C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\obj\Debug\Assignment.Khách_hàng.resources
+C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\obj\Debug\Assignment.Hóa_đơn.resources
+C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\obj\Debug\Assignment.Chi_tiết_hóa_đơn.resources
