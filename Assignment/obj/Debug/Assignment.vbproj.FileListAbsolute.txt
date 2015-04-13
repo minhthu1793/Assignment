@@ -38,3 +38,7 @@ C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignmen
 C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\obj\Debug\Assignment.Khách_hàng.resources
 C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\obj\Debug\Assignment.Hóa_đơn.resources
 C:\Users\Administrator\Desktop\Thulmps02240_Assignment_GĐ2\Assignment\Assignment\obj\Debug\Assignment.Chi_tiết_hóa_đơn.resources
+E:\Assignment\Assignment\bin\Debug\Assignment.exe.config
+E:\Assignment\Assignment\obj\Debug\Assignment.exe
+E:\Assignment\Assignment\obj\Debug\Assignment.xml
+E:\Assignment\Assignment\obj\Debug\Assignment.pdb

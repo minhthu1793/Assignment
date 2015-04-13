@@ -134,6 +134,12 @@
     <Compile Include="Quản lý sản phẩm.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Tác giả.Designer.vb">
+      <DependentUpon>Tác giả.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tác giả.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Chi tiết hóa đơn.resx">
@@ -165,6 +171,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Quản lý sản phẩm.resx">
       <DependentUpon>Quản lý sản phẩm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tác giả.resx">
+      <DependentUpon>Tác giả.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
